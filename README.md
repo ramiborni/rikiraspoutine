@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmed Rami Borni
 =================================
 
-Back End Developer
+Software Engineer
 -------------------
 
 * 🌍  I'm based in Biskra, Algeria
