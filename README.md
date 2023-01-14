@@ -4,9 +4,8 @@ Hi 👋 My name is Ahmed Rami Borni
 Software Engineer
 -------------------
 
-* 🌍  I'm based in Biskra, Algeria
+* 🌍  I'm based in Algiers, Algeria
 * ✉️  You can contact me at [borniahmedrami@gmail.com](mailto:borniahmedrami@gmail.com)
-* 🚀  I'm currently working on [Vendonet](https://vendonet.net/)
 
 <a href="https://www.twitter.com/ramyborni" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ramyborni?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
